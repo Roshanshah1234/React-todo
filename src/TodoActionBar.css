@@ -1,0 +1,22 @@
+.btnAdd,.btnDel{
+    width: 80px;
+    height: 30px;
+    background-color: antiquewhite;
+    margin: 5px;
+}
+.btnSelectAll{
+    width: 110px;
+    height: 30px;
+    background-color: antiquewhite;
+    margin: 5px;
+}
+
+.inputBox{
+    width: 450px;
+    height: 45px;
+    background-color: aquamarine;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+

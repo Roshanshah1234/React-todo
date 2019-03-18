@@ -1,0 +1,23 @@
+.list-item{
+    max-width: 455px;
+    display: flex;
+    background-color: brown;
+    justify-content: flex-start;
+    flex-flow: row ;
+    align-items: center;
+    margin: 5px 2px 0px 100px;
+    margin-left: 150px;
+}
+.list-item > p{
+    white-space: wrap;
+    word-break: break-word;
+    min-width: 400px;;
+}
+.list-item > button{
+    align-self: stretch;
+    width: 50px;
+}
+.btnClose{
+    background-color: azure;
+    color: red;
+}
