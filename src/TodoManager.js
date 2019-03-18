@@ -3,7 +3,7 @@ import TodoActionBar from './TodoActionBar'
 import TodoItem from './TodoItem';
 import { connect } from 'react-redux';
 
-class TodoManager extends Componevnt {
+class TodoManager extends Component {
   state = {
     todoItems: [],
     inputText: ""
